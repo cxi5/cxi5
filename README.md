@@ -14,8 +14,7 @@
 <div align="center">
 
   <a href="https://cxi5.site.je">
-    <img src="og-image-png" alt="Cxi5 Logo" width="100" />
-  </a>
+    ![Preview](og-image.png) alt="Cxi5 Logo" width="100"
 
   <h1>Leonardo Sebastião</h1>
   <h3>Cxi5</h3>
@@ -133,109 +132,6 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
 ### Filosofia
 
 > "Gosto de pegar numa ideia e levá-la até ao fim — do primeiro esboço ao produto pronto a usar, com atenção aos detalhes que fazem a diferença entre 'funciona' e 'funciona bem'."
-
-<br/>
-
-<div align="center">
-  <a href="#english">
-    <img src="https://img.shields.io/badge/See%20in%20English-0D1117?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" />
-  </a>
-</div>
-
----
-
-<!-- ============================================================
-     ENGLISH
-     ============================================================ -->
-<a id="english"></a>
-
-<div align="center">
-
-  <a href="https://cxi5.site.je/en/">
-    <img src="./assets/logo.png" alt="Cxi5 Logo" width="100" />
-  </a>
-
-  <h1>Leonardo Sebastião</h1>
-  <h3>Cxi5</h3>
-
-  <p><strong>Front-end Developer</strong> · Luanda, Angola</p>
-  <p>Available for freelance projects</p>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Front--end-Developer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Applied-238636?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=cxi5&style=for-the-badge&color=0D1117" alt="Profile views" />
-
-  <br/><br/>
-
-  <a href="https://cxi5.site.je/en/">
-    <img src="https://img.shields.io/badge/Portfolio-cxi5.site.je-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" />
-  </a>
-
-</div>
-
----
-
-### About me
-
-I am **Leonardo Sebastião**, also known as **Cxi5**. Front-end developer based in Luanda, Angola.
-
-I build modern websites, pages and landing pages with real attention to code quality. I like taking an idea from the first sketch to a finished, usable product — with care for the details that separate "it works" from "it works well".
-
-I apply **Software Engineering** principles to every project: structure, clear architecture, readable code and deliberate technical decisions. I do not only deliver interfaces — I deliver solid foundations for what comes next.
-
-- Location: Luanda, Angola  
-- Focus: Front-end with Full Stack capability  
-- Available for: freelance work and remote collaboration  
-- Portfolio: [cxi5.site.je](https://cxi5.site.je/en/)
-
----
-
-### Software Engineering in practice
-
-| Principle | How I apply it |
-|-----------|----------------|
-| Clean Code | Clear names, small functions and single responsibility |
-| Architecture | Separation of concerns and predictable structure |
-| Version Control | Organised commits, branches and readable history |
-| Quality | Attention to performance, accessibility and maintainability |
-| Scalability | Technical decisions designed to grow without unnecessary debt |
-| Delivery | From prototype to usable product, focused on real outcomes |
-
----
-
-### Main stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### Projects
-
-| Project | Description | Status | Link |
-|---------|-------------|--------|------|
-| **Tunerise** | Social platform for musicians. Feed, profiles, artist discovery and a posting system. | In development | — |
-| **NexDoc** | Legal document management platform. Contract drafting, digital signature, secure archiving and case-tracking dashboard for law firms. Stack: React, Node.js, PDF.js, offline-first. | Final testing | [View project](https://cxi5.github.io/nexdoc/) |
-| **LuxeStay** | Hotel experience PWA. Guest portal with real-time bookings, interactive gallery, in-room services, stay management and reviews. Installable on the home screen. | Production | — |
-| **Soft Soluções** | Institutional website for a technical assistance company in Luanda (FRP/IMEI, mobile repair, CCTV, networks, PC and web development). Local SEO, Schema.org and WhatsApp contact form. | Live — real clients | [View site](https://softsolucoes.wuaze.com) |
-| **Terminal Guide** | Free interactive ebook about the Linux terminal. 50 commands from basics to advanced, organised into 6 thematic blocks. Sidebar index, light/dark mode and PT/EN toggle. | Published | [View project](https://cxi5.github.io/terminal-guide/) |
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cxi5&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxi5&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <br/>
@@ -265,23 +161,3 @@ I apply **Software Engineering** principles to every project: structure, clear a
     <img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
   </a>
 </p>
-
----
-
-### Philosophy
-
-> "I like taking an idea from the first sketch to a finished, usable product — with care for the details that separate 'it works' from 'it works well'."
-
-<br/>
-
-<div align="center">
-  <a href="#portugues">
-    <img src="https://img.shields.io/badge/Ver%20em%20Português-0D1117?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" alt="footer" />
-</div>
