@@ -15,8 +15,12 @@
 
   <a href="https://cxi5.site.je">
     
-    [Preview](og-image.png)
-
+    <br>
+    
+    ![Preview](og-image.png)
+    
+    <br>
+    
   <h1>Leonardo Sebastião</h1>
   <h3>Cxi5</h3>
 
