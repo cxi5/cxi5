@@ -2,10 +2,6 @@
   <a href="#portugues">
     <img src="https://img.shields.io/badge/Português-0D1117?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" alt="Português" />
   </a>
-  &nbsp;
-  <a href="#english">
-    <img src="https://img.shields.io/badge/English-0D1117?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" alt="English" />
-  </a>
 </p>
 
 <!-- PORTUGUÊS -->
@@ -16,7 +12,7 @@
   <a href="https://cxi5.site.je">
     
   <h1>Leonardo Sebastião</h1>
-  <h3>Cxi5</h3>
+  <h3>Cxi5 [cxi5.site.je](https://cxi5.site.je)</h3>
 
   ![Preview](og-image.png)
 
