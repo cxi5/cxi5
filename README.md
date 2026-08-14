@@ -14,7 +14,8 @@
 <div align="center">
 
   <a href="https://cxi5.site.je">
-    ![Preview](og-image.png) alt="Cxi5 Logo" width="100"
+    
+    [Preview](og-image.png)
 
   <h1>Leonardo Sebastião</h1>
   <h3>Cxi5</h3>
