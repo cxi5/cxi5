@@ -15,14 +15,12 @@
 
   <a href="https://cxi5.site.je">
     
-    <br>
-    
-    ![Preview](og-image.png)
-    
-    <br>
-    
   <h1>Leonardo Sebastião</h1>
   <h3>Cxi5</h3>
+
+  <br>
+  ![Preview](og-image.png)
+  <br>
 
   <p><strong>Front-end Developer</strong> · Luanda, Angola</p>
   <p>Disponível para projetos freelance</p>
