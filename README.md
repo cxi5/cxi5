@@ -1,6 +1,5 @@
-<!-- ==================== NAVEGAÇÃO DE IDIOMA ==================== -->
 <p align="center">
-  <a href="#português">
+  <a href="#portugues">
     <img src="https://img.shields.io/badge/Português-0D1117?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" alt="Português" />
   </a>
   &nbsp;
@@ -9,118 +8,131 @@
   </a>
 </p>
 
----
-
-<!-- ==================== PORTUGUÊS ==================== -->
-<a id="português"></a>
+<!-- PORTUGUÊS -->
+<a id="portugues"></a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Seu+Nome;Full+Stack+Developer;Engenharia+de+Software+na+pr%C3%A1tica;C%C3%B3digo+limpo+%7C+Arquitetura+%7C+Escala" alt="Typing SVG" />
 
-  <br/><br/>
-
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="./assets/logo.png" alt="Logo" width="110" />
+  <a href="https://cxi5.site.je">
+    <img src="og-image-png" alt="Cxi5 Logo" width="100" />
   </a>
 
+  <h1>Leonardo Sebastião</h1>
+  <h3>Cxi5</h3>
+
+  <p><strong>Front-end Developer</strong> · Luanda, Angola</p>
+  <p>Disponível para projetos freelance</p>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Front--end-Developer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Applied-238636?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=cxi5&style=for-the-badge&color=0D1117" alt="Profile views" />
+
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Focus-238636?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=0D1117" alt="Profile views" />
+  <a href="https://cxi5.site.je">
+    <img src="https://img.shields.io/badge/Portfolio-cxi5.site.je-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" />
+  </a>
+
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
-Desenvolvedor **Full Stack** com forte aplicação de **Engenharia de Software** em todos os projetos.
+Sou **Leonardo Sebastião**, também conhecido como **Cxi5**. Programador front-end baseado em Luanda, Angola.
 
-Não entrego só código que funciona — entrego código **organizado, testável, escalável e fácil de manter**.
+Desenvolvo sites, páginas e landing pages modernas com atenção real à qualidade do código. Gosto de pegar numa ideia e levá-la até ao fim — do primeiro esboço ao produto pronto a usar, com atenção aos detalhes que fazem a diferença entre "funciona" e "funciona bem".
 
-- 🔭 Foco atual: aplicações web robustas e bem arquitetadas  
-- 🧠 Aplico: Clean Code, SOLID, arquitetura em camadas e boas práticas de Git  
-- 🛠️ Domínio: Node.js, React, TypeScript, bancos relacionais e NoSQL  
-- ⚡ Filosofia: **engenharia boa reduz retrabalho**
+Aplico princípios de **Engenharia de Software** em cada projeto: organização, arquitetura clara, código legível e decisões técnicas conscientes. Não entrego apenas interfaces — entrego bases sólidas para o que vem a seguir.
 
----
-
-### 🏗️ Engenharia de Software nos meus projetos
-
-| Princípio                    | Como aplico                                      |
-|-----------------------------|--------------------------------------------------|
-| **Clean Code**              | Nomes claros, funções pequenas e responsabilidade única |
-| **SOLID**                   | Separação de responsabilidades e baixo acoplamento |
-| **Arquitetura**             | Camadas bem definidas (API, domínio, dados)      |
-| **Versionamento**           | Commits semânticos, branches e Pull Requests     |
-| **Qualidade**               | Testes, revisões e atenção a performance         |
-| **Escalabilidade**          | Design pensado para crescer sem virar dívida técnica |
+- Localização: Luanda, Angola  
+- Foco: Front-end com capacidade Full Stack  
+- Disponível para: projetos freelance e colaboração remota  
+- Portfólio: [cxi5.site.je](https://cxi5.site.je)
 
 ---
 
-### 🛠️ Stack Principal
+### Engenharia de Software aplicada
+
+| Princípio | Como aplico nos projetos |
+|-----------|--------------------------|
+| Clean Code | Nomes claros, funções pequenas e responsabilidade única |
+| Arquitetura | Separação de responsabilidades e estrutura previsível |
+| Versionamento | Commits organizados, branches e histórico legível |
+| Qualidade | Atenção a performance, acessibilidade e manutenção |
+| Escalabilidade | Decisões técnicas pensadas para crescer sem dívida desnecessária |
+| Entrega | Do protótipo ao produto utilizável, com foco no resultado real |
+
+---
+
+### Stack principal
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Projetos
+### Projetos
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| **Nome do Projeto 1** | Breve descrição do que o projeto faz e o problema que resolve. | [Ver repositório](https://github.com/SEU-USUARIO/projeto-1) |
-| **Nome do Projeto 2** | Breve descrição destacando a stack e o valor entregue. | [Ver repositório](https://github.com/SEU-USUARIO/projeto-2) |
-| **Nome do Projeto 3** | Breve descrição com foco em arquitetura ou engenharia aplicada. | [Ver repositório](https://github.com/SEU-USUARIO/projeto-3) |
-| **Nome do Projeto 4** | Breve descrição do resultado ou impacto do projeto. | [Ver repositório](https://github.com/SEU-USUARIO/projeto-4) |
-
-> 💡 *Substitua os nomes, descrições e links pelos seus projetos reais.*
+| Projeto | Descrição | Estado | Link |
+|---------|-----------|--------|------|
+| **Tunerise** | Plataforma social para músicos. Feed, perfis, descoberta de artistas e sistema de publicações. | Em desenvolvimento | — |
+| **NexDoc** | Plataforma de gestão documental e legal. Redação de contratos, assinatura digital, arquivo seguro e painel de acompanhamento processual para escritórios. Stack: React, Node.js, PDF.js, offline-first. | Fase final de testes | [Ver projeto](https://cxi5.github.io/nexdoc/) |
+| **LuxeStay** | PWA de experiência hoteleira. Portal do hóspede com reservas em tempo real, galeria interactiva, serviços in-room, gestão de estadias e sistema de avaliações. Instalável no ecrã inicial. | Produção | — |
+| **Soft Soluções** | Site institucional para empresa de assistência técnica em Luanda (FRP/IMEI, reparação mobile, CCTV, redes, PC e criação de sites). SEO local, Schema.org e formulário via WhatsApp. | Em produção — clientes reais | [Ver site](https://softsolucoes.wuaze.com) |
+| **Guia do Terminal** | Ebook gratuito e interactivo sobre o terminal Linux. 50 comandos do básico ao avançado, organizados em 6 blocos temáticos. Índice lateral, modo claro/escuro e alternância PT/EN. | Publicado | [Ver projeto](https://cxi5.github.io/terminal-guide/) |
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cxi5&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxi5&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxi5&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🌐 Conecte-se
+### Contacto
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://cxi5.site.je">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" />
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/cxi5">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://codepen.io/cxi5">
+    <img src="https://img.shields.io/badge/CodePen-0D1117?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="mailto:leosebastiao25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://ko-fi.com/cxi50">
+    <img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
   </a>
 </p>
 
 ---
 
-### ⚡ Filosofia
+### Filosofia
 
-> **"Engenharia de Software não é luxo. É o que separa um projeto que sobrevive de um projeto que vira problema."**
+> "Gosto de pegar numa ideia e levá-la até ao fim — do primeiro esboço ao produto pronto a usar, com atenção aos detalhes que fazem a diferença entre 'funciona' e 'funciona bem'."
 
 <br/>
 
@@ -132,121 +144,138 @@ Não entrego só código que funciona — entrego código **organizado, testáve
 
 ---
 
-<!-- ==================== ENGLISH ==================== -->
+<!-- ============================================================
+     ENGLISH
+     ============================================================ -->
 <a id="english"></a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Your+Name;Full+Stack+Developer;Software+Engineering+in+practice;Clean+Code+%7C+Architecture+%7C+Scale" alt="Typing SVG" />
 
-  <br/><br/>
-
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="./assets/logo.png" alt="Logo" width="110" />
+  <a href="https://cxi5.site.je/en/">
+    <img src="./assets/logo.png" alt="Cxi5 Logo" width="100" />
   </a>
 
+  <h1>Leonardo Sebastião</h1>
+  <h3>Cxi5</h3>
+
+  <p><strong>Front-end Developer</strong> · Luanda, Angola</p>
+  <p>Available for freelance projects</p>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Front--end-Developer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Applied-238636?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=cxi5&style=for-the-badge&color=0D1117" alt="Profile views" />
+
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Focus-238636?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=0D1117" alt="Profile views" />
+  <a href="https://cxi5.site.je/en/">
+    <img src="https://img.shields.io/badge/Portfolio-cxi5.site.je-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" />
+  </a>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About me
 
-**Full Stack Developer** with strong application of **Software Engineering** principles in every project.
+I am **Leonardo Sebastião**, also known as **Cxi5**. Front-end developer based in Luanda, Angola.
 
-I don’t just ship working code — I ship code that is **organized, testable, scalable and maintainable**.
+I build modern websites, pages and landing pages with real attention to code quality. I like taking an idea from the first sketch to a finished, usable product — with care for the details that separate "it works" from "it works well".
 
-- 🔭 Current focus: robust and well-architected web applications  
-- 🧠 Applying: Clean Code, SOLID, layered architecture and Git best practices  
-- 🛠️ Skills: Node.js, React, TypeScript, relational & NoSQL databases  
-- ⚡ Philosophy: **good engineering reduces rework**
+I apply **Software Engineering** principles to every project: structure, clear architecture, readable code and deliberate technical decisions. I do not only deliver interfaces — I deliver solid foundations for what comes next.
 
----
-
-### 🏗️ Software Engineering in My Projects
-
-| Principle                   | How I apply it                                      |
-|----------------------------|-----------------------------------------------------|
-| **Clean Code**             | Clear names, small functions, single responsibility |
-| **SOLID**                  | Separation of concerns and low coupling             |
-| **Architecture**           | Well-defined layers (API, domain, data)             |
-| **Version Control**        | Semantic commits, branches and Pull Requests        |
-| **Quality**                | Testing, reviews and performance awareness          |
-| **Scalability**            | Design that grows without becoming technical debt   |
+- Location: Luanda, Angola  
+- Focus: Front-end with Full Stack capability  
+- Available for: freelance work and remote collaboration  
+- Portfolio: [cxi5.site.je](https://cxi5.site.je/en/)
 
 ---
 
-### 🛠️ Main Stack
+### Software Engineering in practice
+
+| Principle | How I apply it |
+|-----------|----------------|
+| Clean Code | Clear names, small functions and single responsibility |
+| Architecture | Separation of concerns and predictable structure |
+| Version Control | Organised commits, branches and readable history |
+| Quality | Attention to performance, accessibility and maintainability |
+| Scalability | Technical decisions designed to grow without unnecessary debt |
+| Delivery | From prototype to usable product, focused on real outcomes |
+
+---
+
+### Main stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Projects
+### Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Project Name 1** | Short description of what the project does and the problem it solves. | [View repository](https://github.com/SEU-USUARIO/project-1) |
-| **Project Name 2** | Short description highlighting the stack and the value delivered. | [View repository](https://github.com/SEU-USUARIO/project-2) |
-| **Project Name 3** | Short description focused on architecture or applied engineering. | [View repository](https://github.com/SEU-USUARIO/project-3) |
-| **Project Name 4** | Short description of the outcome or impact of the project. | [View repository](https://github.com/SEU-USUARIO/project-4) |
-
-> 💡 *Replace the names, descriptions and links with your real projects.*
+| Project | Description | Status | Link |
+|---------|-------------|--------|------|
+| **Tunerise** | Social platform for musicians. Feed, profiles, artist discovery and a posting system. | In development | — |
+| **NexDoc** | Legal document management platform. Contract drafting, digital signature, secure archiving and case-tracking dashboard for law firms. Stack: React, Node.js, PDF.js, offline-first. | Final testing | [View project](https://cxi5.github.io/nexdoc/) |
+| **LuxeStay** | Hotel experience PWA. Guest portal with real-time bookings, interactive gallery, in-room services, stay management and reviews. Installable on the home screen. | Production | — |
+| **Soft Soluções** | Institutional website for a technical assistance company in Luanda (FRP/IMEI, mobile repair, CCTV, networks, PC and web development). Local SEO, Schema.org and WhatsApp contact form. | Live — real clients | [View site](https://softsolucoes.wuaze.com) |
+| **Terminal Guide** | Free interactive ebook about the Linux terminal. 50 commands from basics to advanced, organised into 6 thematic blocks. Sidebar index, light/dark mode and PT/EN toggle. | Published | [View project](https://cxi5.github.io/terminal-guide/) |
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cxi5&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxi5&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxi5&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🌐 Connect with me
+### Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://cxi5.site.je/en/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" />
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/cxi5">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://codepen.io/cxi5">
+    <img src="https://img.shields.io/badge/CodePen-0D1117?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="mailto:leosebastiao25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://ko-fi.com/cxi50">
+    <img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
   </a>
 </p>
 
 ---
 
-### ⚡ Philosophy
+### Philosophy
 
-> **"Software Engineering is not a luxury. It’s what separates a project that survives from a project that becomes a problem."**
+> "I like taking an idea from the first sketch to a finished, usable product — with care for the details that separate 'it works' from 'it works well'."
 
 <br/>
 
 <div align="center">
-  <a href="#português">
+  <a href="#portugues">
     <img src="https://img.shields.io/badge/Ver%20em%20Português-0D1117?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" />
   </a>
 </div>
@@ -254,5 +283,5 @@ I don’t just ship working code — I ship code that is **organized, testable, 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" alt="footer" />
 </div>
