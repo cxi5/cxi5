@@ -12,7 +12,7 @@
   <a href="https://cxi5.site.je">
     
   <h1>Leonardo Sebastião</h1>
-  <h3>Cxi5 [cxi5.site.je](https://cxi5.site.je)</h3>
+  <h3>Cxi5 [cxi5.site.je] (https://cxi5.site.je)</h3>
 
   ![Preview](og-image.png)
 
