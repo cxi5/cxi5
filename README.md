@@ -18,9 +18,7 @@
   <h1>Leonardo Sebastião</h1>
   <h3>Cxi5</h3>
 
-  <br>
   ![Preview](og-image.png)
-  <br>
 
   <p><strong>Front-end Developer</strong> · Luanda, Angola</p>
   <p>Disponível para projetos freelance</p>
@@ -164,3 +162,9 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
     <img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
   </a>
 </p>
+
+### Filosofia
+
+> "Gosto de pegar numa ideia e levá-la até ao fim — do primeiro esboço ao produto pronto a usar, com atenção aos detalhes que fazem a diferença entre 'funciona' e 'funciona bem'."
+
+<br/>
