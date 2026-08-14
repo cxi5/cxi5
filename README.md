@@ -63,26 +63,26 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
 
 ---
 
-### Stack principal
+### Princípio da pilha
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+< p align = "center" >
+  < img src = " https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " / >​ 
+  < img src = " https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " / >​ 
+  < img src = " https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " / >​ 
+  < img src = " https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black " / >​ 
+  < img src = " https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white " / >​ 
+  < img src = " https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white " / >​ 
+  < img src = " https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white " / >​ 
+</p>​​
 
 ---
 
 ### Projetos
 
-| Projeto | Descrição | Estado | Link |
+| Projeto | Descrição | Estado | Ligação |
 |---------|-----------|--------|------|
-| **Tunerise** | Plataforma social para músicos. Feed, perfis, descoberta de artistas e sistema de publicações. | Em desenvolvimento | — |
-| **NexDoc** | Plataforma de gestão documental e legal. Redação de contratos, assinatura digital, arquivo seguro e painel de acompanhamento processual para escritórios. Stack: React, Node.js, PDF.js, offline-first. | Fase final de testes | [Ver projeto](https://cxi5.github.io/nexdoc/) |
+|  ** Sintonizar **  | Plataforma social para músicos. Feed, perfis, descoberta de artistas e sistema de publicações. | Em desenvolvimento | — |
+|  ** NexDoc **  | Plataforma de gestão documental e jurídica. Redação de contratos, assinatura digital, arquivo seguro e painel de acompanhamento processual para escritórios. Pilha: React, Node.js, PDF.js, offline primeiro. | Fase final de testes |  [ Ver projeto ] ( https://cxi5.github.io/nexdoc/ )  |
 | **LuxeStay** | PWA de experiência hoteleira. Portal do hóspede com reservas em tempo real, galeria interactiva, serviços in-room, gestão de estadias e sistema de avaliações. Instalável no ecrã inicial. | Produção | — |
 | **Soft Soluções** | Site institucional para empresa de assistência técnica em Luanda (FRP/IMEI, reparação mobile, CCTV, redes, PC e criação de sites). SEO local, Schema.org e formulário via WhatsApp. | Em produção — clientes reais | [Ver site](https://softsolucoes.wuaze.com) |
 | **Guia do Terminal** | Ebook gratuito e interactivo sobre o terminal Linux. 50 comandos do básico ao avançado, organizados em 6 blocos temáticos. Índice lateral, modo claro/escuro e alternância PT/EN. | Publicado | [Ver projeto](https://cxi5.github.io/terminal-guide/) |
