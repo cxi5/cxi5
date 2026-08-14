@@ -65,13 +65,15 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
 
 ### Projetos
 
-| Projeto | Descrição | Estado | Ligação |
+| Projeto | Descrição | Estado | Link |
 |---------|-----------|--------|------|
-|  ** Sintonizar **  | Plataforma social para músicos. Feed, perfis, descoberta de artistas e sistema de publicações. | Em desenvolvimento | — |
-|  ** NexDoc **  | Plataforma de gestão documental e jurídica. Redação de contratos, assinatura digital, arquivo seguro e painel de acompanhamento processual para escritórios. Pilha: React, Node.js, PDF.js, offline primeiro. | Fase final de testes |  [ Ver projeto ] ( https://cxi5.github.io/nexdoc/ )  |
-| **LuxeStay** | PWA de experiência hoteleira. Portal do hóspede com reservas em tempo real, galeria interactiva, serviços in-room, gestão de estadias e sistema de avaliações. Instalável no ecrã inicial. | Produção | — |
+| **Tunerise** | Plataforma social para músicos. Feed, perfis, descoberta de artistas e sistema de publicações. | Em desenvolvimento | — |
+| **NexDoc** | Plataforma de gestão documental e legal. Redação de contratos, assinatura digital, arquivo seguro e painel de acompanhamento processual para escritórios. Stack: React, Node.js, PDF.js, offline-first. | Fase final de testes | [Ver projeto](https://cxi5.github.io/nexdoc/) |
+| **LuxeStay** | PWA de experiência hoteleira. Portal do hóspede com reservas em tempo real, galeria interactiva, serviços in-room, gestão de estadias e sistema de avaliações. Instalável no ecrã inicial. | Produção | [Ver projeto](https://cxi5.github.io/terminal-guide/) |
 | **Soft Soluções** | Site institucional para empresa de assistência técnica em Luanda (FRP/IMEI, reparação mobile, CCTV, redes, PC e criação de sites). SEO local, Schema.org e formulário via WhatsApp. | Em produção — clientes reais | [Ver site](https://softsolucoes.wuaze.com) |
 | **Guia do Terminal** | Ebook gratuito e interactivo sobre o terminal Linux. 50 comandos do básico ao avançado, organizados em 6 blocos temáticos. Índice lateral, modo claro/escuro e alternância PT/EN. | Publicado | [Ver projeto](https://cxi5.github.io/terminal-guide/) |
+
+---
 
 ### Contacto
 
