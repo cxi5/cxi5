@@ -22,7 +22,7 @@
 <br/>
 
 <a href="https://cxi5.site.je">
-  <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-cxi5.site.je-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" height="38" />
+  <img src="https://img.shields.io/badge/PORTFÓLIO-cxi5.site.je-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" height="38" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=cxi5&style=for-the-badge&color=0D1117" alt="Profile views" />
@@ -30,7 +30,7 @@
 <br/><br/>
 
 <a href="https://cxi5.site.je">
-  <img src="https://img.shields.io/badge/🚀_Visitar_Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" height="40" />
+  <img src="https://img.shields.io/badge/Visitar_Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" height="40" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Front--end_Developer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
 Sou **Leonardo Sebastião**, também conhecido como **Cxi5**. Programador front-end baseado em Luanda, Angola.
 
@@ -55,14 +55,14 @@ Desenvolvo sites, páginas e landing pages modernas com atenção real à qualid
 
 Aplico princípios de **Engenharia de Software** em cada projeto: organização, arquitetura clara, código legível e decisões técnicas conscientes. Não entrego apenas interfaces — entrego bases sólidas para o que vem a seguir.
 
-- 📍 **Localização:** Luanda, Angola  
-- 🎯 **Foco:** Front-end com capacidade Full Stack  
-- 💼 **Disponível para:** Projetos freelance e colaboração remota  
-- 🌐 **Portfólio:** [cxi5.site.je](https://cxi5.site.je)
+- **Localização:** Luanda, Angola  
+- **Foco:** Front-end com capacidade Full Stack  
+- **Disponível para:** Projetos freelance e colaboração remota  
+- **Portfólio:** [cxi5.site.je](https://cxi5.site.je)
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### Stack & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -77,7 +77,7 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
 
 ---
 
-### 🧠 Engenharia de Software Aplicada
+### Engenharia de Software Aplicada
 
 | Princípio          | Como aplico nos projetos                                      |
 |--------------------|---------------------------------------------------------------|
@@ -90,7 +90,7 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
 
 ---
 
-### 🚀 Projetos
+### Projetos
 
 | Projeto | Descrição | Estado | Link |
 |---------|-----------|--------|------|
@@ -102,27 +102,27 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cxi5&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cxi5&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" height="170" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxi5&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=cxi5&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 💡 Filosofia
+### Filosofia
 
 > "Gosto de pegar numa ideia e levá-la até ao fim — do primeiro esboço ao produto pronto a usar, com atenção aos detalhes que fazem a diferença entre 'funciona' e 'funciona bem'."
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 <p align="center">
   <a href="https://cxi5.site.je">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" />
   </a>
   &nbsp;
   <a href="https://github.com/cxi5">
@@ -134,11 +134,11 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
   </a>
   <br/><br/>
   <a href="mailto:leosebastiao25@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
   <a href="https://ko-fi.com/cxi50">
-    <img src="https://img.shields.io/badge/☕_Ko--fi-0D1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
+    <img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
   </a>
 </p>
 
