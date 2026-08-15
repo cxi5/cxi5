@@ -10,44 +10,39 @@
 <!-- PORTUGUÊS -->
 <a id="portugues"></a>
 
-<table>
-  <tr>
-    <td width="65%">
+<div align="center">
 
 ### Leonardo Sebastião <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" />
 
 **Cxi5** · Front-end Developer  
 📍 Luanda, Angola
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=58A6FF&center=false&vCenter=true&width=400&lines=Front-end+Developer;Software+Engineering+Applied;Dispon%C3%ADvel+para+Freelance;Do+esbo%C3%A7o+ao+produto+final)](https://git.io/typing-svg)
-
-    </td>
-    <td width="35%" align="center">
-      <a href="https://cxi5.site.je">
-        <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-cxi5.site.je-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" height="38" />
-      </a>
-      <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=cxi5&style=for-the-badge&color=0D1117" alt="Profile views" />
-    </td>
-  </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Front-end+Developer;Software+Engineering+Applied;Dispon%C3%ADvel+para+Freelance;Do+esbo%C3%A7o+ao+produto+final)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-  <a href="https://cxi5.site.je">
-    <img src="https://img.shields.io/badge/🚀_Visitar_Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" height="40" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Front--end_Developer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Software_Engineering-Applied-238636?style=for-the-badge" />
-</p>
+<a href="https://cxi5.site.je">
+  <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-cxi5.site.je-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" height="38" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=cxi5&style=for-the-badge&color=0D1117" alt="Profile views" />
 
-<div align="center">
-  <a href="https://cxi5.site.je">
-    <img src="og-image.png" alt="Preview" width="80%" />
-  </a>
+<br/><br/>
+
+<a href="https://cxi5.site.je">
+  <img src="https://img.shields.io/badge/🚀_Visitar_Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" height="40" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Front--end_Developer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Software_Engineering-Applied-238636?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://cxi5.site.je">
+  <img src="og-image.png" alt="Preview" width="70%" />
+</a>
+
 </div>
 
 ---
@@ -97,77 +92,13 @@ Aplico princípios de **Engenharia de Software** em cada projeto: organização,
 
 ### 🚀 Projetos
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎵 Tunerise</h3>
-      <p>Plataforma social para músicos.<br/>
-      Feed, perfis, descoberta de artistas e sistema de publicações.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📄 NexDoc</h3>
-      <p>Plataforma de gestão documental e legal.<br/>
-      Redação de contratos, assinatura digital, arquivo seguro e painel processual.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Fase_Final-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-      </p>
-      <p>
-        <a href="https://cxi5.github.io/nexdoc/">
-          <img src="https://img.shields.io/badge/Ver_Projeto-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏨 LuxeStay</h3>
-      <p>PWA de experiência hoteleira.<br/>
-      Portal do hóspede com reservas em tempo real, galeria interactiva, serviços in-room e avaliações. Instalável no ecrã inicial.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Produção-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://cxi5.github.io/terminal-guide/">
-          <img src="https://img.shields.io/badge/Ver_Projeto-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔧 Soft Soluções</h3>
-      <p>Site institucional para empresa de assistência técnica em Luanda (FRP/IMEI, reparação mobile, CCTV, redes, PC e criação de sites). SEO local e formulário via WhatsApp.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Produção-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Clientes_Reais-238636?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://softsolucoes.wuaze.com">
-          <img src="https://img.shields.io/badge/Ver_Site-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>💻 Guia do Terminal</h3>
-      <p>Ebook gratuito e interactivo sobre o terminal Linux. 50 comandos do básico ao avançado, organizados em 6 blocos temáticos. Índice lateral, modo claro/escuro e alternância PT/EN.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Publicado-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/PT%2FEN-0D1117?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://cxi5.github.io/terminal-guide/">
-          <img src="https://img.shields.io/badge/Ver_Projeto-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Projeto | Descrição | Estado | Link |
+|---------|-----------|--------|------|
+| **Tunerise** | Plataforma social para músicos. Feed, perfis, descoberta de artistas e sistema de publicações. | Em desenvolvimento | — |
+| **NexDoc** | Plataforma de gestão documental e legal. Redação de contratos, assinatura digital, arquivo seguro e painel processual. Stack: React, Node.js. | Fase final de testes | [Ver projeto](https://cxi5.github.io/nexdoc/) |
+| **LuxeStay** | PWA de experiência hoteleira. Portal do hóspede com reservas em tempo real, galeria interactiva, serviços in-room e avaliações. Instalável no ecrã inicial. | Produção | [Ver projeto](https://cxi5.github.io/terminal-guide/) |
+| **Soft Soluções** | Site institucional para empresa de assistência técnica em Luanda (FRP/IMEI, reparação mobile, CCTV, redes, PC e criação de sites). SEO local e formulário via WhatsApp. | Em produção — clientes reais | [Ver site](https://softsolucoes.wuaze.com) |
+| **Guia do Terminal** | Ebook gratuito e interactivo sobre o terminal Linux. 50 comandos do básico ao avançado, organizados em 6 blocos temáticos. Índice lateral, modo claro/escuro e alternância PT/EN. | Publicado | [Ver projeto](https://cxi5.github.io/terminal-guide/) |
 
 ---
 
